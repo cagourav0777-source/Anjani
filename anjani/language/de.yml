@@ -2,9 +2,9 @@
 start-pm: |
   Hallihallo! Ich heiße **{}**.
   Möchtest Du erfahren, wie man mich verwendet? Dann benutze /help
-  Tritt unserer [Gruppe](https://t.me/userbotindo) bei, wenn Du Fehler melden möchtest. 🙂
-  Mich gibt es, um die Verwaltung Deiner Gruppen einfacher und weniger langweilig zu machen!
-  **Mit ❤️ verwaltet von :** [UserbotIndo Team](https://t.me/userbotindo)
+  Tritt unserer [Gruppe](https://t.me/Botsupport_00) bei, wenn Du Fehler melden möchtest. 🙂
+  Mich gibt es, um die Verwaltung Deiner Gruppen einfacher und weniger langweilig zu machen!🥀
+  **Mit ❤️ verwaltet von :** [Gourav Kumar](https://t.me/Gourav_0G7)
   Willst Du mich zu Deiner Gruppe hinzufügen? Drücke einfach auf die Schaltfläche unten!
 help-pm: |
   Hallo! Ich heiße **{}**.
@@ -13,9 +13,7 @@ help-pm: |
   × /start: Startet mich; kann genutzt werden, um zu prüfen, ob ich laufe.
   × /help: Schreibt Dir diese Direktnachricht.
   × /setlang: Ändert die Sprache.
-  × /donate: Erhalte Infos darüber, wie Du unterstützen kannst❣️
 
-  Die Einstellungen von Anjani sind auch auf unserem Dashboard konfigurierbar: [Drücke hier](https://userbotindo.com/dashboard?ref=anjani), um das Dashboard zu öffnen.
 privacy: Nachfolgend findest Du unsere Datenschutzrichtlinien.
 start-chat: Hiermit sende ich Dir ein warmes Hallo. Möge Dein Tag ein glücklicher sein!
 help-chat: Kontaktiere mich via Direktnachricht, um die Liste der möglichen Befehle zu erhalten.
