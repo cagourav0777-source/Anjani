@@ -2,9 +2,9 @@
 start-pm: |
   Hey there! my name is **{}**.
   Any questions on how to use me? use /help
-  Join Our [Group](https://t.me/userbotindo) If You wanna Report Issue 🙂
-  I'm here to make your group management fun and easy!
-  **Managed With ❤️ By :** [UserbotIndo Team](https://t.me/userbotindo)
+  Join Our [Group](https://t.me/Botsupport_00) If You wanna Report Issue 🙂
+  I'm here to make your group management fun and easy!🥀
+  **Managed With ❤️ By :** [Gourav Kumar](https://t.me/Gourav_0G7)
   Wanna Add me to your Group? Just click the button below!
 help-pm: |
   Hello there! My name is **{}**.
@@ -14,9 +14,7 @@ help-pm: |
   × /start: Starts me, can be used to check i'm alive or not.
   × /help: PM's you this message.
   × /setlang: Change your language preference.
-  × /donate: Get information on how to support me.
-
-  Anjani settings are also configurable on our dashboard, [click here](https://userbotindo.com/dashboard?ref=anjani) to open dashboard.
+  
 privacy: You can find our privacy policy below.
 start-chat: Sending you a warm hi & wishing your day is a happy one!
 help-chat: Contact me in PM to get the list of possible commands.
